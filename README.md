@@ -1,5 +1,6 @@
-Taverna Workflow system Execution Engine security credential store
+# Moved to Apache Taverna
 
-Security infrastructure for Taverna 2 and Taverna 2 activities.
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository [incubator-taverna-engine](https://github.com/apache/incubator-taverna-engine)
 
-This code was previously hosted at http://taverna.googlecode.com/svn/taverna/engine/net.sf.taverna.t2.security/
+This repository is kept for historical reasons - see the tags and branches.
